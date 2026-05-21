@@ -1,9 +1,9 @@
-<img src="./logo-black.png" align="left" width="200"/>
+<img src="./staronred.png" align="left" width="200"/>
 
-### `Kess, Inc.`
+### `Kess, Inc. - starOnRed`
 
-Big networking platform for developers. A non-profit platform to connect with other developers and develop open source projects together.
+Global ölçekte açık kaynak projeler geliştiren genç Türk yazılımcılardan oluşan starOnRed, Kess, Inc. çatısı altında en kritik misyonu üstlenmektedir: Dijital dünyada tam bağımsızlığı ve siber egemenliği sağlamak. Kurumun temel felsefesini kod satırlarına döken bu takım, teknolojide dışa bağımlılığı bitirecek açık kaynaklı projelerle dijital vatanı ve geleceği inşa eder.
 
-·
-<a href="https://kessbrekker.com">Website</a>
+<a href="https://kessbrekker.com">Website</a> ·
+<a href="https://github.com/orgs/kessinc/teams">Teams</a>
 
